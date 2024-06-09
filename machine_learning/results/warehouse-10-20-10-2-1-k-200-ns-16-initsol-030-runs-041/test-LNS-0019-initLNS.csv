@@ -1,0 +1,3 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.332636,0,18322,2,18313,15684,2,-1,0.234733,0.195806,27410224,38100633,3194312,116122,0.261134,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/warehouse-10-20-10-2-1-random-19.scen
+0.264806,0,18955,2,19150,15684,3,-1,0.199278,0.115197,30039391,41325702,3795904,128270,0.253717,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/warehouse-10-20-10-2-1-random-19.scen

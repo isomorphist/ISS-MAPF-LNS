@@ -1,0 +1,26 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+7.33477,0,96801,1,96754,75788,2,-1,7.30773,0.0270419,13970596,18004143,5985232,7868,1.6938,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+6.73819,0,100663,1,100616,75788,2,-1,6.70364,0.034543,16010691,15964062,8281711,5775,1.67661,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.62915,0,94473,1,94426,75788,2,-1,3.59396,0.0351927,13095923,18008875,4931552,7959,1.672,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.98234,0,98112,1,98068,75788,4,-1,2.46452,1.51782,14087613,17773906,5370943,6892,1.71642,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+0.947056,0,96309,1,96256,75788,2,-1,0.869654,0.077402,15584834,14512469,8312953,5754,1.64194,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+0.605421,0,96957,1,96911,75788,2,-1,0.569939,0.0354818,15332087,17869966,6806706,7577,1.68081,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+9.98972,0,97689,1,97643,75788,2,-1,9.96255,0.0271664,14315026,15513480,7119656,6279,1.68264,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+6.40268,0,96225,1,96178,75788,2,-1,6.32627,0.0764084,13271786,18082800,4963560,7787,1.66436,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+1.65244,0,95510,1,95464,75788,2,-1,1.5629,0.0895394,12237874,17874086,3896403,7877,1.67464,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.14387,0,94795,1,94749,75788,3,-1,2.70271,0.441157,14413361,17922015,5975527,7730,1.71092,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+5.03624,0,95398,1,95351,75788,2,-1,5.00991,0.0263371,13625805,17259768,5618928,7122,1.71359,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+4.09598,0,94762,1,94715,75788,2,-1,4.05924,0.036737,15169123,18127332,6670938,7734,1.65961,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.28721,0,97265,1,97218,75788,3,-1,2.79346,0.493746,15038550,16195590,7520632,6852,1.64121,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.30082,0,97840,1,97793,75788,2,-1,3.27626,0.0245519,15701055,16728217,7504632,6518,1.65016,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+0.529109,0,94546,1,94499,75788,2,-1,0.488884,0.0402254,14955572,18124923,6490664,8087,1.6777,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.9819,0,96352,1,96305,75788,2,-1,3.93218,0.0497184,12795583,19498075,4133577,8859,1.6719,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+2.09652,0,97605,1,97529,75788,2,-1,2.03342,0.0630949,14158002,17471296,6294998,7940,1.65174,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.13079,0,95808,1,95761,75788,2,-1,3.06002,0.0707691,14617767,17673913,6152708,7325,1.63166,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+1.84938,0,96014,1,95967,75788,2,-1,1.82333,0.0260438,15938904,17111369,7648288,7257,1.6867,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+3.72704,0,95901,1,95854,75788,2,-1,3.69469,0.0323544,16059520,15982301,8259539,6200,1.71567,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+4.05361,0,98128,1,98081,75788,3,-1,3.58407,0.469549,14469487,18524469,6040743,7880,1.64463,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+5.38817,0,97044,1,96998,75788,2,-1,5.34687,0.0412941,16599852,14155275,9961621,5980,1.65356,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+2.3474,0,97086,1,97039,75788,2,-1,2.29682,0.0505788,15787724,16161804,8358163,6998,1.64402,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+2.28234,0,97829,1,97784,75788,3,-1,1.78839,0.493941,17517544,18042453,8749051,7601,1.72326,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen
+4.15544,0,95313,1,95268,75788,2,-1,4.12634,0.0291038,14507837,16245249,7282960,7394,1.70017,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/ost003d-random-16.scen

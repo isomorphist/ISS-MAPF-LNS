@@ -1,0 +1,8 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.000348708,0,139,1,139,113,2,-1,0.000116847,0.000231861,38286535,78218101,196326,4617708,0.000443374,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000520588,0,160,1,154,113,2,-1,0.000277907,0.000242681,38437020,78735379,170693,4603441,0.000337698,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000471787,0,154,1,152,113,2,-1,0.000156771,0.000315016,38111872,77531800,196907,4598844,0.000341975,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000289429,0,142,2,133,113,2,-1,0.000165068,0.000248722,38648812,79216298,221415,4683291,0.000339021,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000759173,0,151,1,141,113,3,-1,0.000319895,0.000439278,39022013,79393314,225870,4699664,0.000341676,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000648536,0,144,1,140,113,3,-1,0.000138658,0.000509878,38869184,79105241,194172,4710881,0.000348669,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
+0.000784721,0,143,1,141,113,3,-1,0.000158225,0.000626496,38762145,78840265,194570,4674385,0.00033334,InitLNS(PP),/home1/mhuber/MAPF/MAPF-ML-LNS2/mapf_instances/mapf-scen-random/scen-random/empty-8-8-random-5.scen
